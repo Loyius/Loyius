@@ -1,16 +1,20 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75fff8&height=120&section=header"/>
 
-<!--
-**Loyius/Loyius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75fff8&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Larissa!;Eu+sou+uma+dev+brasileira;Seja+Bem-vindo(a)!;Hello!+My+name+is+Larissa!;I'm+a+brazilian+dev;;Be+Welcome!+:%29)]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Fazendo curso de ciência da computação
+- 🌱 Estudando Javascript
+- 🤔 Focada na parte de front-end
+- 📫 Email : larissaqramos1@gmail.com
+- 😄 Pronomes: ela/dela
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<div></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75fff8&height=120&section=footer"/>
