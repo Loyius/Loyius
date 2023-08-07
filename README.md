@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75fff8&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75fff8&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Larissa!;Eu+sou+uma+dev+brasileira;Seja+Bem-vindo(a)!;Hello!+My+name+is+Larissa!;I'm+a+brazilian+dev;;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75fff8&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Larissa!;Eu+sou+uma+dev+brasileira;Seja+Bem-vindo(a)!;Hello!+My+name+is+Larissa!;I'm+a+brazilian+dev;Feel+free+to+take+a+look+around!+:%29)
 
 
 - 🔭 Fazendo curso de ciência da computação
