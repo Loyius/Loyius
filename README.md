@@ -5,7 +5,6 @@
 
 - 🔭 Fazendo curso de ciência da computação
 - 🌱 Estudando Javascript
-- 🤔 Focada na parte de front-end
 - 📫 Email : larissaqramos1@gmail.com
 - 😄 Pronomes: ela/dela
 
