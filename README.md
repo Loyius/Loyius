@@ -24,10 +24,12 @@ ________________________________________________________________________________
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Loyius&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
 </div>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Loyius}/count.svg" /></p> 
-<br></div>
 
 <br><p align="centre"><b>Visitors Count</b></p>
+<div>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Loyius}/count.svg" /></p> 
+<br></div>
+
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF005D&height=120&section=footer"/>
 </div>
