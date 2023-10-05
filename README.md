@@ -18,11 +18,14 @@
 <div> 
   <a href="www.linkedin.com/in/larissa-queiroz-417886267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <hr>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Loyius&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
 </div>
+
 <hr>
 
   ![Visitor Count](https://profile-counter.glitch.me/{Loyius}/count.svg)
