@@ -19,16 +19,13 @@
   <a href="www.linkedin.com/in/larissa-queiroz-417886267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 ______________________________________________________________________________________________________________________________________________
-  <br><div></div>
+  <hr>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Loyius&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
 </div>
 
-  <br><div></div>
-<div>
-  <p><img align="center" src="https://profile-counter.glitch.me/{Loyius}/count.svg" /></p> 
-</div>
+  ![Visitor Count](https://profile-counter.glitch.me/{Loyius}/count.svg)
 
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF005D&height=120&section=footer"/>
