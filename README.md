@@ -28,7 +28,7 @@ ________________________________________________________________________________
   <br><div></div>
 <div>
   <p><img align="center" src="https://profile-counter.glitch.me/{Loyius}/count.svg" /></p> 
-<br></div>
+</div>
 
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF005D&height=120&section=footer"/>
