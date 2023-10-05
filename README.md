@@ -25,7 +25,6 @@ ________________________________________________________________________________
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
 </div>
 
-<br><p align="centre"><b>Visitors Count</b></p>
 <div>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Loyius}/count.svg" /></p> 
 <br></div>
