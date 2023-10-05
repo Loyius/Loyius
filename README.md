@@ -20,7 +20,7 @@
   <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983118329256484944/unknown.png"
   width=30" height="30">
 </a></div>
-________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Loyius&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
