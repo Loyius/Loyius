@@ -15,10 +15,6 @@
   <img  align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
 </div>
 
-<div> 
-  <a href="www.linkedin.com/in/larissa-queiroz-417886267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <hr>
 
 <div>
