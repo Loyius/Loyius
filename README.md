@@ -18,7 +18,7 @@
 <div>   
   <a href="www.linkedin.com/in/larissa-queiroz-417886267">
 </a></div>
-______________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Loyius&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
