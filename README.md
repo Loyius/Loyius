@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF005D&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Larissa!+👋;Eu+sou+uma+dev+brasileira;Seja+Bem-vindo(a)!;Hi!+My+name+is+Larissa!;I'm+a+brazilian+dev;Feel+free+to+take+a+look+around!+:%29)
 
 
-- 🔭 Cursando 2° semestre de Ciência da Computação
+- 🔭 Cursando 3° semestre de Ciência da Computação
 - 📫 Email : larissaqramos1@gmail.com
 - 😄 Pronomes: ela/dela
 
