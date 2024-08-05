@@ -11,7 +11,7 @@
 <img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 
-<a href="www.linkedin.com/in/larissa-queiroz-ramos-417886267" target=”_blank”>
+<a href="http://linkedin.com/in/larissa-queiroz-ramos-417886267" target=”_blank”>
 <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
