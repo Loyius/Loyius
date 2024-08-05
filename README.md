@@ -3,12 +3,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=600&color=ff006e&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Larissa!+👋🏻;Eu+sou+uma+dev+brasileira;Seja+Bem-vindo(a)!;Hi!+My+name+is+Larissa!;I'm+a+brazilian+dev;Feel+free+to+take+a+look+around!+:%29)
 
 - 👩🏻‍💻 Cursando 4° semestre de Ciência da Computação
+<br>
 <a href="mailto:larissaqramos1@gmail.com" target=”_blank”>
-<img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
+<img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 
 <a href="www.linkedin.com/in/larissa-queiroz-ramos-417886267" target=”_blank”>
-<img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
 
