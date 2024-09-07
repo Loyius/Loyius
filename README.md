@@ -17,7 +17,7 @@
   <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   
-  <img align="right" height="95" width="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRjMXh6bzhleHl3djJxNTg4dW10YnoxN2tpdXNpaGZsZHU0MHRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OkoScrMcY324r1j1HZ/giphy.gif"  />
+  <img align="right" height="94.5" width="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRjMXh6bzhleHl3djJxNTg4dW10YnoxN2tpdXNpaGZsZHU0MHRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OkoScrMcY324r1j1HZ/giphy.gif"  />
 </div>
 
 ## Languages | Databases | Frameworks | IDE's
