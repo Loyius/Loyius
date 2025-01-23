@@ -4,7 +4,7 @@
 
 ##
 
-- 👩🏻‍💻 Cursando 4° semestre de Ciência da Computação
+- 👩🏻‍💻 Cursando 5° semestre de Ciência da Computação
 
 <br>
 
