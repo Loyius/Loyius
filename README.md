@@ -1,80 +1,66 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=120&section=header"/>
 
-<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=600&color=ff006e&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Meu+nome+é+Larissa!+👋🏻;Eu+sou+uma+dev+brasileira;Seja+Bem-vindo(a)!;Hi!+My+name+is+Larissa!;I'm+a+brazilian+dev;Feel+free+to+take+a+look+around!+:%29)
 
-```
- ██╗      █████╗ ██████╗ ██╗███████╗███████╗ █████╗
- ██║     ██╔══██╗██╔══██╗██║██╔════╝██╔════╝██╔══██╗
- ██║     ███████║██████╔╝██║███████╗███████╗███████║
- ██║     ██╔══██║██╔══██╗██║╚════██║╚════██║██╔══██║
- ███████╗██║  ██║██║  ██║██║███████║███████║██║  ██║
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=800&color=ff006e&center=true&vCenter=true&width=440&lines=computer+science+student+%40+7th+semester;full+stack+developer+in+progress;always+building+something+new)](https://git.io/typing-svg)
+- 👩🏻‍💻 Cursando 7° semestre de Ciência da Computação
 
+<br>
+
+<div>
+  <a href="mailto:larissaqramos1@gmail.com" target=”_blank”>
+  <img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  
+  <a href="http://linkedin.com/in/larissa-queiroz-ramos-417886267" target=”_blank”>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+
+## Languages | Databases | Frameworks | IDE's
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<br/>
 
-<div align="center">
+<hr>
 
-`brasileira` &nbsp;·&nbsp; `full stack` &nbsp;
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Loyius&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&theme=radical&show_icons=true&hide_border=false&layout=compact">
 </div>
 
-<br/>
+<hr>
 
----
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLoyius%2F&s=50&c=ff006e&bg=00000000&no=2&ff=alien&tb=Visitors%3A+&ta=)
 
-<br/>
-
-**languages**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23fff0f5.svg?style=flat-square&logo=javascript&logoColor=ff006e)
-![TypeScript](https://img.shields.io/badge/typescript-%23fff0f5.svg?style=flat-square&logo=typescript&logoColor=ff006e)
-![Java](https://img.shields.io/badge/java-%23fff0f5.svg?style=flat-square&logo=openjdk&logoColor=ff006e)
-![Python](https://img.shields.io/badge/python-%23fff0f5.svg?style=flat-square&logo=python&logoColor=ff006e)
-
-**stack**
-
-![React](https://img.shields.io/badge/react-%23fff0f5.svg?style=flat-square&logo=react&logoColor=ff006e)
-![Node.js](https://img.shields.io/badge/node.js-%23fff0f5.svg?style=flat-square&logo=nodedotjs&logoColor=ff006e)
-![.NET](https://img.shields.io/badge/.net-%23fff0f5.svg?style=flat-square&logo=dotnet&logoColor=ff006e)
-![MySQL](https://img.shields.io/badge/mysql-%23fff0f5.svg?style=flat-square&logo=mysql&logoColor=ff006e)
-![Git](https://img.shields.io/badge/git-%23fff0f5.svg?style=flat-square&logo=git&logoColor=ff006e)
-![VS Code](https://img.shields.io/badge/vscode-%23fff0f5.svg?style=flat-square&logo=visualstudiocode&logoColor=ff006e)
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Loyius&show_icons=true&hide_border=true&count_private=true&title_color=ff006e&icon_color=ff4d94&text_color=555&bg_color=fff9fb&hide_title=false"/>
-&nbsp;
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loyius&layout=compact&hide_border=true&title_color=ff006e&text_color=555&bg_color=fff9fb"/>
-
+<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=120&section=footer"/>
 </div>
 
-<br/>
 
----
-
-<br/>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/larissaqramos1%40gmail.com-%23fff0f5?style=flat-square&logo=gmail&logoColor=ff006e)](mailto:larissaqramos1@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/larissa--queiroz--ramos-%23fff0f5?style=flat-square&logo=linkedin&logoColor=ff006e)](http://linkedin.com/in/larissa-queiroz-ramos-417886267)
-
-<br/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Loyius.Loyius&left_color=ff006e&right_color=ff4d94&left_text=visitors)
-
-</div>
-
-<br/>
